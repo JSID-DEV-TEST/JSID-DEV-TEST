@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in all thing tech, testing and web development.
-- 🌱 I’m currently learning full stack web development & test automation.
+- 👀 I’m interested in all things tech, testing and web development.
+- 🌱 I’m currently learning full stack web development, test automation and how to turn coffee and depression into code.
 - 📫 How to reach me - @jsiddevtest
 
 <!---
